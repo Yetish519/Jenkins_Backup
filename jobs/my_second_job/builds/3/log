@@ -1,0 +1,9 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/my_second_job
+[my_second_job] $ /bin/sh -xe /tmp/jenkins9839853992440106475.sh
++ echo Hello world \nThis is Yetish S \nTotal 4 years experience in Microland Company
+Hello world 
+This is Yetish S 
+Total 4 years experience in Microland Company
+Finished: SUCCESS

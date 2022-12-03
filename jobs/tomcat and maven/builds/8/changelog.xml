@@ -1,0 +1,9 @@
+commit 7f72a9aebcfe99a2fabfa6416827603238a74a59
+tree a56c5fd866258e4b72dcec28a1a0e16b8c3dbeef
+parent d4cf77ab7930a15abcfb99019f611f57ee1c5755
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 19:15:17 +0530
+committer GitHub <noreply@github.com> 2022-11-27 19:15:17 +0530
+
+    Update ss1.sh
+
+:100644 100644 476db0b88cf15d0d2e211415d7017f3b3389fefc e102a9d94b72688c4ce70f4edbcbfcf249ce67c4 M	ss1.sh

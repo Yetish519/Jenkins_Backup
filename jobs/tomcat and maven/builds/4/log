@@ -1,0 +1,28 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4EYdNSisj8kNqTU4KEAU13hNoyWCCwVIBM72UI0lp1CCAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/ZL83OTEkvik0sycFAB0RmK7ywAAAA==[0mtomcat_build in workspace /home/tomcat/workspace/tomcat and maven
+[tomcat and maven] $ /bin/sh -xe /tmp/jenkins14812502568538640633.sh
++ rm -rf yesrepo
++ git clone https://github.com/Yetish519/yesrepo.git
+Cloning into 'yesrepo'...
++ sh yesrepo/ss1.sh
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+--2022-11-27 12:21:06--  https://downloads.apache.org/tomcat/tomcat-10/v10.0.27/bin/apache-tomcat-10.0.27.tar.gz
+Resolving downloads.apache.org (downloads.apache.org)... 88.99.95.219, 135.181.214.104, 2a01:4f9:3a:2c57::2, ...
+Connecting to downloads.apache.org (downloads.apache.org)|88.99.95.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11984522 (11M) [application/x-gzip]
+apache-tomcat-10.0.27.tar.gz: Permission denied
+
+Cannot write to ‘apache-tomcat-10.0.27.tar.gz’ (Success).
+tar (child): apache-tomcat-10.0.27.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+sh: 0: cannot open /opt/apache-tomcat-10.0.27/bin/startup.sh: No such file
+Finished: SUCCESS

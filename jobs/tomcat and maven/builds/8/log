@@ -1,0 +1,23 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4EYdNSisj8kNqTU4KEAU13hNoyWCCwVIBM72UI0lp1CCAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/ZL83OTEkvik0sycFAB0RmK7ywAAAA==[0mtomcat_build in workspace /home/tomcat/workspace/tomcat and maven
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/tomcat/workspace/tomcat and maven/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Yetish519/yesrepo.git # timeout=10
+Fetching upstream changes from https://github.com/Yetish519/yesrepo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Yetish519/yesrepo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 7f72a9aebcfe99a2fabfa6416827603238a74a59 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 7f72a9aebcfe99a2fabfa6416827603238a74a59 # timeout=10
+Commit message: "Update ss1.sh"
+ > git rev-list --no-walk d4cf77ab7930a15abcfb99019f611f57ee1c5755 # timeout=10
+[tomcat and maven] $ /bin/sh -xe /tmp/jenkins18227837353328109733.sh
++ sh yesrepo/ss1.sh
+sh: 0: cannot open yesrepo/ss1.sh: No such file
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

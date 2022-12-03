@@ -1,0 +1,9 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4KKrT1ZBh00uSXAEM63DY3+A/CjyEU0zyMQ6DfphH9oFAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/aTSzJyU4tSistQiAIcuCcPKAAAA[0mbuildserver (build_server) in workspace /home/jenkins/workspace/tomcat and maven
+[tomcat and maven] $ /bin/sh -xe /tmp/jenkins6803186263494911319.sh
++ rm -rf hello-world-war
++ git pull https://github.com/Yetish519/hello-world-war.git
+fatal: not a git repository (or any of the parent directories): .git
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

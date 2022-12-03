@@ -1,0 +1,99 @@
+commit 59464ad88b9c798bb376fe206dc142f4f84b368c
+tree ffccfe5fcde10358611682243332df1ab582031d
+parent 1069b5e3200a37d9dc1658082e1240382fb5686e
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 20:37:40 +0530
+committer GitHub <noreply@github.com> 2022-11-27 20:37:40 +0530
+
+    Update ss1.sh
+
+:100644 100644 96847e92e3304665b5e6e47464ac2300dcaf7667 5d96ff187ad00779454d6a37bb8d0441788dcbea M	ss1.sh
+commit 1069b5e3200a37d9dc1658082e1240382fb5686e
+tree 409287aa7fb16fad1bc8e6c165006b71c93a9f93
+parent ce1095999f11485432f459528ff063431e6f407e
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 20:33:40 +0530
+committer GitHub <noreply@github.com> 2022-11-27 20:33:40 +0530
+
+    Update ss1.sh
+
+:100644 100644 9127b3e89a85377ae7de88675aaa430a4df8e99e 96847e92e3304665b5e6e47464ac2300dcaf7667 M	ss1.sh
+commit ce1095999f11485432f459528ff063431e6f407e
+tree 387f08ec87d8f77de4ec413f42f05e8bd83cc038
+parent 92308bfd61bfeed6b384311c0fadd779e0d65298
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 20:30:59 +0530
+committer GitHub <noreply@github.com> 2022-11-27 20:30:59 +0530
+
+    Update ss1.sh
+
+:100644 100644 e102a9d94b72688c4ce70f4edbcbfcf249ce67c4 9127b3e89a85377ae7de88675aaa430a4df8e99e M	ss1.sh
+commit 92308bfd61bfeed6b384311c0fadd779e0d65298
+tree a56c5fd866258e4b72dcec28a1a0e16b8c3dbeef
+parent 18213c38f1cfafbc41304d1c1232b833e862d02a
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 20:10:34 +0530
+committer GitHub <noreply@github.com> 2022-11-27 20:10:34 +0530
+
+    Update ss1.sh
+
+:100644 100644 38e531bf50220cfa4219dc6bbc208fdfa4912241 e102a9d94b72688c4ce70f4edbcbfcf249ce67c4 M	ss1.sh
+commit 18213c38f1cfafbc41304d1c1232b833e862d02a
+tree 7fd64bdc4ad60699f9be78dfbad1c0333f306572
+parent 7f72a9aebcfe99a2fabfa6416827603238a74a59
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 19:34:28 +0530
+committer GitHub <noreply@github.com> 2022-11-27 19:34:28 +0530
+
+    Update ss1.sh
+
+:100644 100644 e102a9d94b72688c4ce70f4edbcbfcf249ce67c4 38e531bf50220cfa4219dc6bbc208fdfa4912241 M	ss1.sh
+commit 7f72a9aebcfe99a2fabfa6416827603238a74a59
+tree a56c5fd866258e4b72dcec28a1a0e16b8c3dbeef
+parent d4cf77ab7930a15abcfb99019f611f57ee1c5755
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 19:15:17 +0530
+committer GitHub <noreply@github.com> 2022-11-27 19:15:17 +0530
+
+    Update ss1.sh
+
+:100644 100644 476db0b88cf15d0d2e211415d7017f3b3389fefc e102a9d94b72688c4ce70f4edbcbfcf249ce67c4 M	ss1.sh
+commit d4cf77ab7930a15abcfb99019f611f57ee1c5755
+tree a1cdffd7e34421cc3bbc30de14d725578ce167cf
+parent 63ec0cfe3af36df634e7f73e68615ebe7feab68b
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 18:01:54 +0530
+committer GitHub <noreply@github.com> 2022-11-27 18:01:54 +0530
+
+    Update ss1.sh
+
+:100644 100644 a5ee3c0cb3949b3cd74b11e6b4e287d0ebf1d9ad 476db0b88cf15d0d2e211415d7017f3b3389fefc M	ss1.sh
+commit 63ec0cfe3af36df634e7f73e68615ebe7feab68b
+tree 68e296cfa6f51471e95fc8ee953a25e821e39e33
+parent 30a90425a69c76fe751babada2453abfd7741bdc
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 17:55:38 +0530
+committer GitHub <noreply@github.com> 2022-11-27 17:55:38 +0530
+
+    Update ss1.sh
+
+:100644 100644 476db0b88cf15d0d2e211415d7017f3b3389fefc a5ee3c0cb3949b3cd74b11e6b4e287d0ebf1d9ad M	ss1.sh
+commit 30a90425a69c76fe751babada2453abfd7741bdc
+tree a1cdffd7e34421cc3bbc30de14d725578ce167cf
+parent 4881a57305ac0a8c8d94c0ee29b8ba6222de6c75
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 17:48:02 +0530
+committer GitHub <noreply@github.com> 2022-11-27 17:48:02 +0530
+
+    Update ss1.sh
+
+:100644 100644 76eb589bd8f411a02bc3b469f1cae4f2440f5366 476db0b88cf15d0d2e211415d7017f3b3389fefc M	ss1.sh
+commit 4881a57305ac0a8c8d94c0ee29b8ba6222de6c75
+tree 57d2828feb17c0847902a0579f7dd4d1c191f62a
+parent 5abeebaab4eee08f62b2b157171cd39355cbfda4
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 17:44:57 +0530
+committer GitHub <noreply@github.com> 2022-11-27 17:44:57 +0530
+
+    Update ss1.sh
+
+:100644 100644 a5ee3c0cb3949b3cd74b11e6b4e287d0ebf1d9ad 76eb589bd8f411a02bc3b469f1cae4f2440f5366 M	ss1.sh
+commit 5abeebaab4eee08f62b2b157171cd39355cbfda4
+tree 68e296cfa6f51471e95fc8ee953a25e821e39e33
+parent 9f8e18e45f162151e3f6a02043c07a6c70647c6b
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-27 16:56:04 +0530
+committer GitHub <noreply@github.com> 2022-11-27 16:56:04 +0530
+
+    Update ss1.sh
+
+:100644 100644 d0575fd43ec87dacaa534d24993c571a7e6198a9 a5ee3c0cb3949b3cd74b11e6b4e287d0ebf1d9ad M	ss1.sh

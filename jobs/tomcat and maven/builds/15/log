@@ -1,0 +1,15 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4D2TFsMK/klzOTUa0SgD7fhz9MBfBpvmDRh34lqC0OB3AAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/eLUorLUovik0sycFADkET36ywAAAA==[0mserver_build (server) in workspace /home/server/workspace/tomcat and maven
+[tomcat and maven] $ /bin/sh -xe /tmp/jenkins7865537545512415843.sh
++ rm -rf hello-world-war
++ git pull https://github.com/Yetish519/hello-world-war.git
+From https://github.com/Yetish519/hello-world-war
+ * branch            HEAD       -> FETCH_HEAD
+Already up to date.
++ pwd
+/home/server/workspace/tomcat and maven
++ sh yetish.sh
+yetish.sh: 1: Hello: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,54 @@
+Started by upstream project "[8mha:////4O3/smtLCREEZ5KWXqQFC8Uyctlg2bAl+zUjXZJS9xhbAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JP3cyvjiVKCGlHgQDwDk97rZyAAAAA==[0mmy_second_job" build number [8mha:////4H5JpjUssRuAeCrfx0NCXwQGpSYA3ta+W+e7KVwAAZZFAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhH9rPwk/dzK+OJUoIaUeBDPEgCq31X4yQAAAA==[0m9
+originally caused by:
+ Started by upstream project "[8mha:////4NpkJFAWo4wL+ms0v/a16GmfdZrh2Ju68V1GpgGP7YCiAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+rmV8WmZRcUl8SAOAL3zkJzHAAAA[0mmy_first_job" build number [8mha:////4BfuqPaQFsYeXkiIQQ/fz9hiiyRMCpBgOAevhVX51039AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwk/dzK+LTMouKSeBDHGAB+4m8myAAAAA==[0m3
+ originally caused by:
+  Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/my_third_job
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/my_third_job/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Yetish519/yesrepo.git # timeout=10
+Fetching upstream changes from https://github.com/Yetish519/yesrepo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Yetish519/yesrepo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision b199506a8f3d0f53f747b1fee4338546b150a0d8 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f b199506a8f3d0f53f747b1fee4338546b150a0d8 # timeout=10
+Commit message: "Update ss1.sh"
+ > git rev-list --no-walk b199506a8f3d0f53f747b1fee4338546b150a0d8 # timeout=10
+[my_third_job] $ /bin/sh -xe /tmp/jenkins11062074074866253864.sh
++ ls
+services.sh
+ss1.sh
+ss10.sh
+ss11.sh
+ss12.sh
+ss13.sh
+ss14.sh
+ss15.sh
+ss16.sh
+ss17.sh
+ss18.sh
+ss19.sh
+ss2.sh
+ss20.sh
+ss3.sh
+ss4.sh
+ss5.sh
+ss6.sh
+ss7.sh
+ss8.sh
+ss9.sh
+test1
++ pwd
+/var/lib/jenkins/workspace/my_third_job
++ sh ss20.sh 2 3 4
+Enter the first number
+Enter the second number
+Enter the third number
+The number  is greater than  and 
+Finished: SUCCESS

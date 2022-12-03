@@ -1,0 +1,9 @@
+commit 4b86f453c5c4dfb0827d408f6aedd24424960754
+tree 868e5142649a77590055ac920054e1e617c2ee2a
+parent 51080d321cafe3054b2dd22becc62d8fc72d8d4e
+author Yetish519 <118253937+Yetish519@users.noreply.github.com> 2022-11-30 13:06:53 +0530
+committer GitHub <noreply@github.com> 2022-11-30 13:06:53 +0530
+
+    Rename index.jsp to index1.jsp
+
+:100644 100644 aa6395c4ed58e245d3496e4aa2ca2b8378023669 aa6395c4ed58e245d3496e4aa2ca2b8378023669 R100	src/main/webapp/index.jsp	src/main/webapp/index1.jsp

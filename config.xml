@@ -1,0 +1,74 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson>
+  <disabledAdministrativeMonitors>
+    <string>jenkins.diagnostics.ControllerExecutorsNoAgents</string>
+    <string>hudson.diagnosis.ReverseProxySetupMonitor</string>
+  </disabledAdministrativeMonitors>
+  <version>2.361.4</version>
+  <numExecutors>2</numExecutors>
+  <mode>NORMAL</mode>
+  <useSecurity>true</useSecurity>
+  <authorizationStrategy class="hudson.security.GlobalMatrixAuthorizationStrategy">
+    <permission>USER:com.cloudbees.plugins.credentials.CredentialsProvider.Create:sampath</permission>
+    <permission>USER:com.cloudbees.plugins.credentials.CredentialsProvider.Delete:sampath</permission>
+    <permission>USER:com.cloudbees.plugins.credentials.CredentialsProvider.ManageDomains:sampath</permission>
+    <permission>USER:com.cloudbees.plugins.credentials.CredentialsProvider.Update:sampath</permission>
+    <permission>USER:com.cloudbees.plugins.credentials.CredentialsProvider.View:sampath</permission>
+    <permission>USER:hudson.model.Computer.Build:sampath</permission>
+    <permission>USER:hudson.model.Computer.Configure:sampath</permission>
+    <permission>USER:hudson.model.Computer.Connect:sampath</permission>
+    <permission>USER:hudson.model.Computer.Create:sampath</permission>
+    <permission>USER:hudson.model.Computer.Delete:sampath</permission>
+    <permission>USER:hudson.model.Computer.Disconnect:sampath</permission>
+    <permission>USER:hudson.model.Hudson.Administer:yetish</permission>
+    <permission>USER:hudson.model.Hudson.Read:sampath</permission>
+    <permission>USER:hudson.model.Item.Build:sampath</permission>
+    <permission>USER:hudson.model.Item.Cancel:sampath</permission>
+    <permission>USER:hudson.model.Item.Configure:sampath</permission>
+    <permission>USER:hudson.model.Item.Create:sampath</permission>
+    <permission>USER:hudson.model.Item.Delete:sampath</permission>
+    <permission>USER:hudson.model.Item.Discover:sampath</permission>
+    <permission>USER:hudson.model.Item.Move:sampath</permission>
+    <permission>USER:hudson.model.Item.Read:sampath</permission>
+    <permission>USER:hudson.model.Item.Workspace:sampath</permission>
+    <permission>USER:hudson.model.Run.Delete:sampath</permission>
+    <permission>USER:hudson.model.Run.Update:sampath</permission>
+    <permission>USER:hudson.model.View.Configure:sampath</permission>
+    <permission>USER:hudson.model.View.Create:sampath</permission>
+    <permission>USER:hudson.model.View.Delete:sampath</permission>
+    <permission>USER:hudson.model.View.Read:sampath</permission>
+    <permission>USER:hudson.scm.SCM.Tag:sampath</permission>
+  </authorizationStrategy>
+  <securityRealm class="hudson.security.HudsonPrivateSecurityRealm">
+    <disableSignup>true</disableSignup>
+    <enableCaptcha>false</enableCaptcha>
+  </securityRealm>
+  <disableRememberMe>false</disableRememberMe>
+  <projectNamingStrategy class="jenkins.model.ProjectNamingStrategy$DefaultProjectNamingStrategy"/>
+  <workspaceDir>${JENKINS_HOME}/workspace/${ITEM_FULL_NAME}</workspaceDir>
+  <buildsDir>${ITEM_ROOTDIR}/builds</buildsDir>
+  <markupFormatter class="hudson.markup.EscapedMarkupFormatter"/>
+  <jdks/>
+  <viewsTabBar class="hudson.views.DefaultViewsTabBar"/>
+  <myViewsTabBar class="hudson.views.DefaultMyViewsTabBar"/>
+  <clouds/>
+  <scmCheckoutRetryCount>0</scmCheckoutRetryCount>
+  <views>
+    <hudson.model.AllView>
+      <owner class="hudson" reference="../../.."/>
+      <name>all</name>
+      <filterExecutors>false</filterExecutors>
+      <filterQueue>false</filterQueue>
+      <properties class="hudson.model.View$PropertyList"/>
+    </hudson.model.AllView>
+  </views>
+  <primaryView>all</primaryView>
+  <slaveAgentPort>-1</slaveAgentPort>
+  <label>master</label>
+  <crumbIssuer class="hudson.security.csrf.DefaultCrumbIssuer">
+    <excludeClientIPFromCrumb>false</excludeClientIPFromCrumb>
+  </crumbIssuer>
+  <nodeProperties/>
+  <globalNodeProperties/>
+  <nodeRenameMigrationNeeded>false</nodeRenameMigrationNeeded>
+</hudson>

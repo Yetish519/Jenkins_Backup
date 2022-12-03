@@ -1,0 +1,23 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4D2TFsMK/klzOTUa0SgD7fhz9MBfBpvmDRh34lqC0OB3AAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/eLUorLUovik0sycFADkET36ywAAAA==[0mserver_build (server) in workspace /home/server/workspace/tomcat and maven
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/server/workspace/tomcat and maven/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Yetish519/hello-world-war.git # timeout=10
+Fetching upstream changes from https://github.com/Yetish519/hello-world-war.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Yetish519/hello-world-war.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 921e685a1ea231a943cad500d4e7552da6f4fe33 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 921e685a1ea231a943cad500d4e7552da6f4fe33 # timeout=10
+Commit message: "yetish"
+ > git rev-list --no-walk 921e685a1ea231a943cad500d4e7552da6f4fe33 # timeout=10
+[tomcat and maven] $ /bin/sh -xe /tmp/jenkins7840438425506360111.sh
++ sh yetish.sh
+yetish.sh: 1: Hello: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

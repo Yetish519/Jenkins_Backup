@@ -1,0 +1,23 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4D2TFsMK/klzOTUa0SgD7fhz9MBfBpvmDRh34lqC0OB3AAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/eLUorLUovik0sycFADkET36ywAAAA==[0mserver_build (server) in workspace /home/server/workspace/tomcat and maven
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/server/workspace/tomcat and maven/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Yetish519/hello-world-war.git # timeout=10
+Fetching upstream changes from https://github.com/Yetish519/hello-world-war.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Yetish519/hello-world-war.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision d3894af807e1e25c6faa0f6b1c3ccb695889f112 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f d3894af807e1e25c6faa0f6b1c3ccb695889f112 # timeout=10
+Commit message: "Update index.jsp"
+First time build. Skipping changelog.
+[tomcat and maven] $ /bin/sh -xe /tmp/jenkins11231927366858333734.sh
++ sh src/main/webapp/index.jsp
+src/main/webapp/index.jsp: 2: Syntax error: newline unexpected
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

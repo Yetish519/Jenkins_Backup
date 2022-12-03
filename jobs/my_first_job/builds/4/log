@@ -1,0 +1,10 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building remotely on [8mha:////4KKrT1ZBh00uSXAEM63DY3+A/CjyEU0zyMQ6DfphH9oFAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/aTSzJyU4tSistQiAIcuCcPKAAAA[0mbuildserver (build_server) in workspace /home/jenkins/workspace/my_first_job
+[my_first_job] $ /bin/sh -xe /tmp/jenkins1732058181245200648.sh
++ ls
++ pwd
+/home/jenkins/workspace/my_first_job
++ date
+Sun Nov 27 08:59:14 UTC 2022
+Finished: SUCCESS

@@ -1,0 +1,17 @@
+Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/my_second_job
+[my_second_job] $ /bin/sh -xe /tmp/jenkins3137267022060201959.sh
++ rm -rf yesrepo
++ git clone https://github.com/Yetish519/yesrepo.git
+Cloning into 'yesrepo'...
++ ls
+yesrepo
++ sh yesrepo/ss9.sh
+10
+20
+30
+40
+50
+Triggering a new build of [8mha:////4G+cw95vH1KzhsHFG3/sJDfx9+/b/q569/wsNWH1wrTWAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+rmV8SUZmUUp8SAOAHmSwCzHAAAA[0mmy_third_job
+Finished: SUCCESS

@@ -1,0 +1,19 @@
+Started by upstream project "[8mha:////4NpkJFAWo4wL+ms0v/a16GmfdZrh2Ju68V1GpgGP7YCiAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+rmV8WmZRcUl8SAOAL3zkJzHAAAA[0mmy_first_job" build number [8mha:////4BfuqPaQFsYeXkiIQQ/fz9hiiyRMCpBgOAevhVX51039AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwk/dzK+LTMouKSeBDHGAB+4m8myAAAAA==[0m3
+originally caused by:
+ Started by user [8mha:////4DJPfxL6y3XV/j2RDiqvWGLPlIiDv0ya/vd5vw12aSILAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9ytSSzOIMABJrYrjBAAAA[0mYetish
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/my_second_job
+[my_second_job] $ /bin/sh -xe /tmp/jenkins11095639959717758114.sh
++ rm -rf yesrepo
++ git clone https://github.com/Yetish519/yesrepo.git
+Cloning into 'yesrepo'...
++ ls
+yesrepo
++ sh yesrepo/ss9.sh
+10
+20
+30
+40
+50
+Triggering a new build of [8mha:////4G+cw95vH1KzhsHFG3/sJDfx9+/b/q569/wsNWH1wrTWAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+rmV8SUZmUUp8SAOAHmSwCzHAAAA[0mmy_third_job
+Finished: SUCCESS
